@@ -1,7 +1,7 @@
 
 ## Objective
 
-The objective of this test is to assess your skills in creating a web page based on a given sketch. You are required to write HTML, CSS, and JavaScript code to replicate the provided sketch accurately.
+The objective of this test is to assess your skills in creating a web page based on a given sketch.
 
 ## Instructions
 

@@ -31,7 +31,7 @@ The objective of this test is to assess your skills in creating a web page based
 
 7. **Testing:**
    - Test your web page on different browsers to ensure cross-browser compatibility.
-   - Ensure responsiveness by testing on various screen sizes.
+ 
 
 
 ## Tips and Suggestions

@@ -1,38 +1,50 @@
- HTML Page Upload and Pull Request Test
+ Web Page Replication Test
 
 ## Objective
 
-
-The objective of this test is to assess your ability to upload an HTML page you have created in a previous task to a new repository and submit a pull request on a version control platform like GitHub.
-
-
-![github](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/054c5270-84c8-4671-b50a-58d0fd7f12ab)
+The objective of this test is to assess your skills in creating a web page based on a given sketch. You are required to write HTML and CSS to replicate the provided sketch accurately.
 
 ## Instructions
 
-1. **Repository Setup:**
-   - Create a new repository on GitHub or another version control platform of your choice.
+1. **Sketch Reference:** Refer to the attached sketch for [home page](https://www.figma.com/file/kklAynIgdD9HC1wwKaylcJ/Protfolio-wireframe?type=design&node-id=0-1&mode=design&t=NsRPG3FO1IKz4PTV-0) and [contact page](https://www.figma.com/file/kklAynIgdD9HC1wwKaylcJ/Protfolio-wireframe?type=design&node-id=12-3&mode=design&t=NsRPG3FO1IKz4PTV-0) to understand the layout, design, and content structure of the web page you need to replicate.
 
-2. **HTML Page Upload:**
-   - Locate the HTML file you created in the pervious task. This is the file you will be uploading.
-   - Add the HTML file to the new repository.
-
-3. **Commit and Push:**
-   - Make a commit with a meaningful commit message for the addition of the HTML file.
-   - Push the changes to your remote repository.
-
-4. **Pull Request:**
-   - Create a new branch (if not done automatically) and open a pull request to merge your changes into the main branch.
-   - Provide a clear description of the changes made in the pull request.
-
-5. **Documentation:**
-   - Create a README.md file in your repository to include any special instructions, additional features, or challenges faced during the process.
+![image](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/343a2ebe-ce20-49f7-b2e0-de374a259d5f)
 
 
-## Clean Code Practices
 
-- Use meaningful commit messages.
-- Keep commits focused on specific changes.
+![image](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/4e049f1c-77ea-4145-ad8e-7265d89aa370)
+
+
+2. **Languages to Use:**
+   - HTML for structuring the content.
+   - CSS for styling the elements.
+
+3. **Requirements:**
+   - Ensure that your code results in a web page that looks identical to the provided sketch.
+   - Pay attention to details such as colors, fonts, spacing, and positioning of elements.
+
+4. **Submission:**
+   - Submit your code files (HTML, CSS, and JS) along with any necessary assets.
+   - Include a README.md file documenting your approach, challenges faced, and any additional features you may have implemented.
+
+5. **Clean Code Practices:**
+   - Organize your code into appropriate HTML sections (head, body) and CSS sections (selectors).
+   - Comment your code to explain complex sections or logic.
+   - Avoid inline styles whenever possible. Use external CSS for styling.
+ 
+
+6. **Testing:**
+   - Test your web page on different browsers to ensure cross-browser compatibility.
+   - Ensure responsiveness by testing on various screen sizes.
+
+7. **Bonus:**
+   - Implement additional features or improvements beyond the basic replication for bonus points.
+
+## Tips and Suggestions
+
+- **HTML Structure:**
+  - Use semantic HTML elements for better accessibility and SEO.
+  - Pay attention to the hierarchy of your HTML elements.
 
 
 

@@ -11,7 +11,8 @@ The objective of this test is to assess your skills in creating a web page based
 
 ![Group 2 (1)](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/42b604b4-cdfa-4fc1-96c3-94c49718d247)
 
-![Group 6](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/451eb228-61a7-4ea2-8d3d-88328ab10c1d)
+![image](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/aa32ace2-faab-4f47-8d8a-18f297f3177f)
+
 
 
 2. **Languages to Use:**
@@ -23,7 +24,7 @@ The objective of this test is to assess your skills in creating a web page based
    - Pay attention to details such as colors, fonts, spacing, and positioning of elements.
 
 4. **Submission:**
-   - Submit your code files (HTML, CSS, and JS) along with any necessary assets.
+   - Submit your code files (HTML and CSS) along with any necessary assets.
    - Include a README.md file documenting your approach, challenges faced, and any additional features you may have implemented.
 
 5. **Clean Code Practices:**
@@ -34,6 +35,7 @@ The objective of this test is to assess your skills in creating a web page based
 
 6. **Testing:**
    - Test your web page on different browsers to ensure cross-browser compatibility.
+   - Ensure responsiveness by testing on various screen sizes.
  
 
 7. **Bonus:**

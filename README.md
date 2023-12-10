@@ -35,7 +35,7 @@ The objective of this test is to assess your skills in creating a web page based
 
 6. **Testing:**
    - Test your web page on different browsers to ensure cross-browser compatibility.
-   - Ensure responsiveness by testing on various screen sizes.
+ 
 
 7. **Bonus:**
    - Implement additional features or improvements beyond the basic replication for bonus points.

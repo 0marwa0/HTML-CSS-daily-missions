@@ -16,7 +16,7 @@ The objective of this test is to assess your understanding of HTML tags. You wil
    - Identify and name the HTML tags for structural elements (e.g., header, footer, nav), text elements (e.g., headings, paragraphs), and any other relevant tags.
 
 4. **Submission:**
-   - Submit your annotated sketch (with highlights and tag names) along with a text file.
+   - Submit your annotated sketch (with highlights and tag names).
 
 5. **Clean Presentation:**
    - Ensure your annotations are clear and easy to understand.

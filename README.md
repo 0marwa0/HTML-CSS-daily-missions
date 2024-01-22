@@ -3,11 +3,13 @@
 
 The objective of this test is to assess your skills in creating a web page based on a given sketch.
 
+![Screenshot from 2024-01-22 12-51-19](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/54ad3c52-0a89-4934-86bd-bfc686ae8ef3)
+
+
 ## Instructions
 
 1. **Sketch Reference:** Refer to the attached sketch  to understand the layout, design, and content structure of the web page you need to replicate.
    
-![Group 3 (2)](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/57d1d2fa-80b5-4593-b0ae-479a937a12b7)
 
 2. **Languages to Use:**
    - HTML for structuring the content.

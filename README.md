@@ -2,8 +2,10 @@
 ## Objective
 
 The objective of this test is to assess your understanding of HTML tags. You will be provided with a sketch, and your task is to identify and highlight each part of the sketch with the appropriate HTML tag.
+
+![test-1-1](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/938a91d2-ecce-4846-a848-5a0a14ae0a29)
+
  
- ![unnamed](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/e951a738-443e-4a02-ade7-562e17fb13e1)
 ## Instructions
 
 1. **Sketch Reference:** Refer to the attached sketch to understand the different elements present.

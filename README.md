@@ -8,11 +8,12 @@ The objective of this test is to assess your skills in creating a web page based
 
 1. **Sketch Reference:** Refer to the attached sketch for [home page](https://www.figma.com/file/kklAynIgdD9HC1wwKaylcJ/Protfolio-wireframe?type=design&node-id=0-1&mode=design&t=NsRPG3FO1IKz4PTV-0) and [contact page](https://www.figma.com/file/kklAynIgdD9HC1wwKaylcJ/Protfolio-wireframe?type=design&node-id=12-3&mode=design&t=NsRPG3FO1IKz4PTV-0) to understand the layout, design, and content structure of the web page you need to replicate.
 
-![image](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/343a2ebe-ce20-49f7-b2e0-de374a259d5f)
+   
+![Img (1)](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/b67e1ae4-6c00-4a4c-a9d5-0f36d5d61961)
+
+![Frame 94](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/206ee430-daf3-414c-81db-51a3babadedd)
 
 
-
-![image](https://github.com/0marwa0/HTML-CSS-daily-missions/assets/14044653/4e049f1c-77ea-4145-ad8e-7265d89aa370)
 
 
 2. **Languages to Use:**
